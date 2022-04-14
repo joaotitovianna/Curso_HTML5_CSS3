@@ -6,16 +6,16 @@ body {
     display: flex;
     width: 100%;
     background-color: white;
+    justify-content: space-around;
 }
 
 .box {
     height: 100px;
-    flex: 1 1 auto; /* grow, shrink, basis*/
+    width: 100px;
 }
 
 .first {
     background-color: red;
-    flex: 2 1 auto;
 }
 .second {
     background-color: green;
