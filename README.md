@@ -10,3 +10,9 @@ Apenas um repositório para organizar os projetos de curso de HTML5 e CSS3.
 - Galerias
 - Formulário de contato
 - HTML semântico
+
+## Projeto 2: Provedor de servidores
+![image](https://user-images.githubusercontent.com/16614976/165426197-0c982efa-b37d-48ed-a909-3fcfd0ae63b2.png)
+
+**Principais recursos:**
+- Flexbox com responsividade ao tamanho da tela
